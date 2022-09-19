@@ -22,6 +22,18 @@
       "volume": "1",
       "groups": {"Fattyloveranon": "/proxy/api/imgur/chapter/qyi20nu/"},
          "last_updated":"1661817305"
+    },
+    "4": {
+      "title": "Chapter 4",
+      "volume": "1",
+      "groups": {"Fattyloveranon": "/proxy/api/imgur/chapter/HMh6CjA/"},
+         "last_updated":"1663445312"
+    },
+    "5": {
+      "title": "Chapter 5",
+      "volume": "1",
+      "groups": {"Fattyloveranon": "/proxy/api/imgur/chapter/3JlPdP8/"},
+         "last_updated":"1663531712"
     }
    }
 }
